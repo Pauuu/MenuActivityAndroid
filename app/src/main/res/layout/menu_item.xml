@@ -1,0 +1,12 @@
+<TextView android:id="@+id/menuItemTextView"
+    android:layout_width="match_parent"
+    android:textSize="@dimen/menu_item_size"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content"
+    android:shadowRadius="5"
+    android:gravity="center"
+    android:textColor="@color/colorRed"
+    android:shadowColor="@color/colorGreen"
+    android:shadowDy="1"
+    android:shadowDx="1"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
